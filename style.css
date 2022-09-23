@@ -1,0 +1,33 @@
+
+h1{
+    text-align: center;
+
+}
+body{
+    background-color: black;
+    color: lightgreen;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+label,input{
+    display: block;
+}
+input{
+    margin-bottom:1rem ;
+    width: 100%;
+}
+#check-number{
+    margin-top: 1rem;
+    margin: auto;
+    display: block;
+    background: transparent;
+    color: lightgreen;
+    border-color: lightgreen;
+    border-width: medium;
+    border-radius: 0.5rem;
+    
+}
